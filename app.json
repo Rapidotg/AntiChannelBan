@@ -9,7 +9,7 @@
         "BrayDanXD",
         "AntiChannelBan"
     ],
-    "repository": "https://GitHub.com/BrayDanXD/AntiChannelBan",
+    "repository": "https://github.com/Rapidotg/AntiChannelBan",
     "website": "https://GitHub.com/BrayDanXD",
     "success_url": "https://t.me/Decodesupport",
     "env": {
@@ -26,7 +26,7 @@
       "API_HASH": {
         "description": "pur ur api hash",
         "value": "",
-        "required": false
+        "required": true
       }
   },
     "buildpacks": [
